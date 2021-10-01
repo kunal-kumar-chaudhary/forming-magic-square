@@ -1,6 +1,8 @@
 #include<bits/stdc++.h>
 #include<math.h>
+
 using namespace std;
+
 int forming_magic_square(vector <vector<int> >s);
 int main()
 {  
